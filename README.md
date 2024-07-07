@@ -12,7 +12,7 @@ which are then stored in a database.
   - [HTML (index.html)](#html-indexhtml)
   - [CSS (styles.css)](#css-stylescss)
   - [JavaScript (script.js)](#javascript-scriptjs)
-  - [PHP (store_command.php)](#php-connectionphp)
+  - [PHP (connection.php)](#php-connectionphp)
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
