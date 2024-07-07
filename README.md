@@ -12,7 +12,7 @@ which are then stored in a database.
   - [HTML (index.html)](#html-indexhtml)
   - [CSS (styles.css)](#css-stylescss)
   - [JavaScript (script.js)](#javascript-scriptjs)
-  - [PHP (store_command.php)](#php-store_commandphp)
+  - [PHP (store_command.php)](#php-connectionphp)
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
@@ -78,10 +78,16 @@ Handles the database connection and logic for inserting movement commands into t
 
 robot-movement-controller/
 │
+
 ├── index.html
+
 ├── styles.css
+
 ├── script.js
-└── store_command.php
+
+└── connection.php
+
+
 ## Features
 
 - Simple and intuitive web interface for controlling robot movements.
